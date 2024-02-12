@@ -1,7 +1,7 @@
 from PIL import Image, ImageDraw
-from mandelbrot import mandelbrot, MAX_ITER
 from collections import defaultdict
 from math import floor, ceil
+from mandelbrot import mandelbrot, MAX_ITER
 
 
 
