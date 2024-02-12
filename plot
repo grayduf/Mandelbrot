@@ -1,8 +1,7 @@
 from PIL import Image, ImageDraw
 from collections import defaultdict
 from math import floor, ceil
-from mandelbrot import mandelbrot, MAX_ITER
-
+from creation import mandelbrot, MAX_ITER
 
 
 def linear_interpolation(color1, color2, t):
