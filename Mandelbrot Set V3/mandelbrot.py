@@ -1,3 +1,4 @@
+# Not my code, as I am not entirely sure how Classes work just yet.
 import pygame as pg
 import numpy as np
 import taichi as ti
